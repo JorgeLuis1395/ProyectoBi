@@ -1,0 +1,6 @@
+[
+	{"text":"💔","label":"neg"},
+	{"text":"💕","label":"pos"},
+   	{"text":"♥","label":"pos"}
+
+]

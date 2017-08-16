@@ -1,0 +1,5 @@
+function(doc){
+	if(doc.place.name=="Quito" && doc.lang=="es"){
+		emit(doc.id,doc.text)
+	}
+}

@@ -1,0 +1,20 @@
+[
+	{"text":"hermosa hermosas","label": "pos"},
+    	{"text":"si, viejo","label":"neu"},
+	{"text":"pero","label":"neu"},
+	{"text":"esta como esta","label":"neg"},
+	{"text":"impresionante impresionantes","label":"pos"},
+	{"text":"asombroso asombrosos","label":"pos"},
+	{"text":"magnifico magnificos","label":"pos"},
+	{"text":"accidente accidentes","label":"neg"},
+	{"text":"fallecido fallecio fallido","label":"neg"},
+	{"text":"restriccion restricciones","label":"neg"},
+	{"text":"sanciones","label":"neg"},
+	{"text":"mierda","label":"neg"},
+	{"text":"pendejos pendejo pendejada","label":"neg"},
+	{"text":"grato","label":"neu"},
+	{"text":"ineficaz ineficiente","label":"neg"},
+	{"text":"puta mierda miercoles hp perra zorra perro vago infeliz desgraciado desocupado ladron","label":"neg"},
+	{"text":"dolorosa","label":"neg"}
+]
+
